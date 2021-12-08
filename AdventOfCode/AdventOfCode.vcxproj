@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Day1.c" />
     <ClCompile Include="Day2.c" />
+    <ClCompile Include="Day3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
