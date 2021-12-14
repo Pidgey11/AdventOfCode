@@ -21,7 +21,7 @@
     <ClCompile Include="Day2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Day3.c">
+    <ClCompile Include="Day4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
